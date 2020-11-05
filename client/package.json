@@ -20,7 +20,7 @@
     "markdown-to-jsx": "^6.11.0",
     "next": "9.2.2",
     "next-fonts": "^1.0.3",
-    "next-offline": "^5.0.0",
+    "next-offline": "^5.0.3",
     "react": "16.13.0",
     "react-codemirror2": "^6.0.0",
     "react-confetti": "^5.0.1",
